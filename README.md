@@ -5,10 +5,10 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: sunny01美国usc长期稳定月20起步, server: yii11.vipvip11.top, port: 22789, type: ssr, cipher: chacha20-ietf, password: 7mtHSG, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 88aa, obfs-param: 88bb}
+  - {name: sunny01美国usc长期稳定月10起步, server: yii11.vipvip11.top, port: 22789, type: ssr, cipher: chacha20-ietf, password: 7mtHSG, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 88aa, obfs-param: 88bb}
   - {name: sunny02香港Hk需要稳定实惠可以加Q1607928649, server: yii29.vipvip11.top, port: 26001, type: ssr, cipher: chacha20-ietf, password: 7mtHSG, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 88aa, obfs-param: 88bb}
   - {name: sunny03新加坡sg先测试后买套餐加Q1607928649, server: yii10.vipvip11.top, port: 20900, type: ssr, cipher: chacha20-ietf, password: 7mtHSG, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 88aa, obfs-param: 88bb}
-  - {name: sunny04日本jp先测试后买套餐加Q1607928649, server: yii18.vipvip11.top, port: 32115, type: ssr, cipher: chacha20-ietf, password: 7mtHSG, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 88aa, obfs-param: 88bb}
+  - {name: sunny04日本jp先测试后买套餐月20起步多线路, server: yii18.vipvip11.top, port: 32115, type: ssr, cipher: chacha20-ietf, password: 7mtHSG, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 88aa, obfs-param: 88bb}
   - {name: sunny05日本jp加Q1607928649, server: yii26.vipvip11.top, port: 20026, type: ssr, cipher: chacha20-ietf, password: 7mtHSG, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 88aa, obfs-param: 88bb}
   - {name: sunny06新加坡sg加Q1607928649, server: yii14.vipvip11.top, port: 30114, type: ssr, cipher: chacha20-ietf, password: 7mtHSG, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 88aa, obfs-param: 88bb}
   - {name: sunny07香港Hk, server: yii30.vipvip11.top, port: 26002, type: ssr, cipher: chacha20-ietf, password: 7mtHSG, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 88aa, obfs-param: 88bb}

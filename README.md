@@ -28,3 +28,4 @@ proxies:
   - {name: sunny21美国usc, server: yii1.vipvip11.top, port: 21779, type: ssr, cipher: chacha20-ietf, password: 7mtHSG, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 88aa, obfs-param: 88bb}
   - {name: sunny22台湾tw, server: yii13.vipvip11.top, port: 20029, type: ssr, cipher: chacha20-ietf, password: 7mtHSG, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 88aa, obfs-param: 88bb}
   - {name: sunny23台湾tw, server: yii31.vipvip11.top, port: 32113, type: ssr, cipher: chacha20-ietf, password: 7mtHSG, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 88aa, obfs-param: 88bb}
+  - 
